@@ -1,5 +1,5 @@
 public class CaesarCipherDecrypt {
-
+ 
     //The method to count how many times each letter occurs in a message.
     public static int[] countLetters(String message) {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
