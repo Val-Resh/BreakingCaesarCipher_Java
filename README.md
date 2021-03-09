@@ -17,7 +17,7 @@ This was the approach I was taught in an online class. It is based on this graph
 From this graph we make the assumption that the most common letter in the encrypted message will be 'E' and the code is written to find the shift in the alphabet
 to then return the encryption key. This encryption key is inserted and the decrypted message is revealed.
 This method works well with long encrypted messages because 'E' is indeed a reccuring letter. However, I noticed the problem with this method, which was that
-it would not decrypt a message that had no 'E's in its original form such as.
+it would not decrypt a message that had no 'E's in its original form.
 
 This led me to try a different approach.
 
