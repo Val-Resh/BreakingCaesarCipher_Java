@@ -1,5 +1,5 @@
 public class CaesarCipher {
-//This class encrypts a Caesar Cipher which is then used to decrypt in the main class.
+//This class encrypts a Caesar Cipher which is then used to decrypt in the main class. 
         public static String encrypt (String input, int key){
 
             StringBuilder encrypted = new StringBuilder(input);
